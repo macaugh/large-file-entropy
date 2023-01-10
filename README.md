@@ -1,6 +1,6 @@
-# entropy
+# Large file entropy
 
-`entropy` is a simple command-line tool to calculate the entropy of files.
+`large-file-entropy` is a simple command-line tool to calculate the entropy of enormous files quickly.
 
 ## Why
 
